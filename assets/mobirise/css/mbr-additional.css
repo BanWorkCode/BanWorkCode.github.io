@@ -698,14 +698,14 @@ a {
 }
 .cid-sGPuOEWCyG {
   padding-top: 1rem;
-  padding-bottom: 1rem;
-  background-color: #ffffff;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-sGPuOEWCyG .card:not(:nth-last-child(1)) {
   margin-bottom: 2rem;
 }
 .cid-sGPuOEWCyG .card-wrapper {
-  background-color: #ffffff;
+  background-color: #bed3f9;
   border-radius: 4px;
   background-color: transparent;
 }
