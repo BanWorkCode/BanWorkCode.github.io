@@ -2609,9 +2609,32 @@ a {
   text-align: left;
 }
 .cid-sO5WeOgJuq {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
   background-color: #ffffff;
+}
+.cid-sPhSzjFnjl {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  background-color: #ffffff;
+}
+.cid-sPhSzjFnjl ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 2.5rem;
+}
+.cid-sPhSzjFnjl li {
+  position: relative;
+  margin-bottom: 1rem;
+}
+.cid-sPhSzjFnjl ul li::before {
+  position: absolute;
+  left: -1.6rem;
+  content: "\2022";
+  color: #ff6666;
+  font-weight: bold;
+  font-size: 2rem;
+  width: 1.6rem;
 }
 .cid-s48P1Icc8J {
   padding-top: 2rem;
